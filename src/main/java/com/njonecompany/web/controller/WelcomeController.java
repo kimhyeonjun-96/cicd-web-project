@@ -25,7 +25,7 @@ public class WelcomeController {
     }
 
     private String getMessage() {
-        return "Hi, there! I'm HJ!";
+        return "Hi, there! I'm Kim!";
     }
 
 }
